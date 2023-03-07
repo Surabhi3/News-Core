@@ -33,3 +33,14 @@ The project needs to be configured with your Auth0 domain and client ID in order
 `
 - Run the app
 
+--------------------
+
+## Screenshots
+
+<img alt="NewsApp Home Page" height="450px" width="800px" src="https://github.com/Surabhi3/News-Core/blob/main/public/HeaderPage.jpg" />
+
+
+<img alt="NewsApp Main Page" height="450px" width="800px" src="https://github.com/Surabhi3/News-Core/blob/main/public/MainPage.jpg" />
+
+--------------------
+
